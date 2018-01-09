@@ -12,6 +12,9 @@ namespace ConsoleApplication1
         {
             // change 1
             Console.WriteLine();
+
+            // change 2
+            Console.WriteLine();
         }
     }
 }
